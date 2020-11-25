@@ -1,4 +1,4 @@
-Every other day adding a new simple automation that I've created
+Just a few Python projects I made for fun 
 
 Project 1 (11/12/20): Eyes20
 Project 2 (11/14/20): YouTube Downloader
